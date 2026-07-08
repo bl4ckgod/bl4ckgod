@@ -30,7 +30,7 @@
 
 ---
 
-<h2 align="center">⚙️ Языки программирования</h2>
+<h2 align="center">⚙️ ЯП которые я знаю</h2>
 
 <div align="center">
 <table>
