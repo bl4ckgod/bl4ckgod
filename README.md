@@ -6,7 +6,7 @@
 
 ## 🎵 Currently Listening
 
-<img src="https://lastfm-recently-played.vercel.app/api?user=xcserec&cache_bust=1">
+<img src="https://lastfm-recently-played.vercel.app/api?user=xcserec&v=1" alt="Last.fm">
 
 </div>
 
