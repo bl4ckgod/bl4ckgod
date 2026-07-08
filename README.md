@@ -30,6 +30,7 @@
 
 ## 🧰 Инструменты, которыми я пользуюсь
 
+<div align="center">
 <table>
   <tr>
     <td width="70" style="width: 70px;"><img src="https://skillicons.dev/icons?i=visualstudio" width="56" alt="Visual Studio" /></td>
