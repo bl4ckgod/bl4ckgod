@@ -6,7 +6,7 @@
 
 ## 🎵 Сейчас слушаю
 
-<img src="https://lastfm-recently-played.vercel.app/api?user=xcserec&cache_bust=1">
+<img src="https://lastfm-recently-played.vercel.app/api?user=xcserec&t=1720401234">
 
 </div>
 
