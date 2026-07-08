@@ -2,8 +2,6 @@
   <img src="1337.gif" width="500" alt="GIF">
 </p>
 
----
-
 <div align="center">
 
 ## 🎵 Currently Listening
