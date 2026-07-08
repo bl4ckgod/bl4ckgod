@@ -6,7 +6,7 @@
 
 ## 🎵 Сейчас слушаю
 
-[![Last.fm Obsession](https://lastfm-github-profile.vercel.app/api?user=xcserec&bg=181818&mode=top)](https://www.last.fm/user/xcserec)
+[![Last.fm](https://lastfm-github-profile.vercel.app/api?user=xcserec&bg=181818&mode=recent)](https://www.last.fm/user/xcserec)
 
 </div>
 
