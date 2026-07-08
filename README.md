@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1337.mp4" width="500" alt="GIF">
+  <img src="1337.gif" width="500" alt="GIF">
 </p>
 
 ## 🛠️ Языки программирования
