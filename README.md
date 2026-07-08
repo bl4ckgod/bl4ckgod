@@ -30,42 +30,42 @@
 
 ## 🧰 Инструменты, которыми я пользуюсь
 
-<table width="100%" style="width: 100%; border-collapse: collapse;">
+<table width="100%">
   <tr>
-    <td width="50" style="width: 50px; padding: 8px;"><img src="https://skillicons.dev/icons?i=visualstudio" width="40" alt="Visual Studio" /></td>
-    <td align="center" style="padding: 8px; vertical-align: middle;"><b>Visual Studio</b></td>
+    <td width="8%"><img src="https://skillicons.dev/icons?i=visualstudio" width="48" alt="Visual Studio" /></td>
+    <td align="center"><b>Visual Studio</b></td>
   </tr>
   <tr>
-    <td width="50" style="width: 50px; padding: 8px;"><img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code" /></td>
-    <td align="center" style="padding: 8px; vertical-align: middle;"><b>VS Code</b></td>
+    <td width="8%"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" /></td>
+    <td align="center"><b>VS Code</b></td>
   </tr>
   <tr>
-    <td width="50" style="width: 50px; padding: 8px;"><img src="https://skillicons.dev/icons?i=windows" width="40" alt="Windows" /></td>
-    <td align="center" style="padding: 8px; vertical-align: middle;"><b>Windows</b></td>
+    <td width="8%"><img src="https://skillicons.dev/icons?i=windows" width="48" alt="Windows" /></td>
+    <td align="center"><b>Windows</b></td>
   </tr>
   <tr>
-    <td width="50" style="width: 50px; padding: 8px;"><img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux" /></td>
-    <td align="center" style="padding: 8px; vertical-align: middle;"><b>Linux</b></td>
+    <td width="8%"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" /></td>
+    <td align="center"><b>Linux</b></td>
   </tr>
   <tr>
-    <td width="50" style="width: 50px; padding: 8px;"><img src="idapro.png" width="40" style="border-radius: 10px;" alt="IDA Pro" /></td>
-    <td align="center" style="padding: 8px; vertical-align: middle;"><b>IDA Pro</b></td>
+    <td width="8%"><img src="idapro.png" width="48" style="border-radius: 12px;" alt="IDA Pro" /></td>
+    <td align="center"><b>IDA Pro</b></td>
   </tr>
   <tr>
-    <td width="50" style="width: 50px; padding: 8px;"><img src="ghidra.png" width="40" style="border-radius: 10px;" alt="Ghidra" /></td>
-    <td align="center" style="padding: 8px; vertical-align: middle;"><b>Ghidra</b></td>
+    <td width="8%"><img src="ghidra.png" width="48" style="border-radius: 12px;" alt="Ghidra" /></td>
+    <td align="center"><b>Ghidra</b></td>
   </tr>
   <tr>
-    <td width="50" style="width: 50px; padding: 8px;"><img src="dnspy.png" width="40" style="border-radius: 10px;" alt="dnSpy" /></td>
-    <td align="center" style="padding: 8px; vertical-align: middle;"><b>dnSpy</b></td>
+    <td width="8%"><img src="dnspy.png" width="48" style="border-radius: 12px;" alt="dnSpy" /></td>
+    <td align="center"><b>dnSpy</b></td>
   </tr>
   <tr>
-    <td width="50" style="width: 50px; padding: 8px;"><img src="frida.png" width="40" style="border-radius: 10px;" alt="Frida" /></td>
-    <td align="center" style="padding: 8px; vertical-align: middle;"><b>FЯIDA</b></td>
+    <td width="8%"><img src="frida.png" width="48" style="border-radius: 12px;" alt="Frida" /></td>
+    <td align="center"><b>FЯIDA</b></td>
   </tr>
   <tr>
-    <td width="50" style="width: 50px; padding: 8px;"><img src="android.png" width="40" style="border-radius: 10px;" alt="APKTool" /></td>
-    <td align="center" style="padding: 8px; vertical-align: middle;"><b>APKTool</b></td>
+    <td width="8%"><img src="android.png" width="48" style="border-radius: 12px;" alt="APKTool" /></td>
+    <td align="center"><b>APKTool</b></td>
   </tr>
 </table>
 
