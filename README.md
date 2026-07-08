@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Языки программирования
+## ⚙️ Языки программирования
 
 <div align="center">
 
@@ -34,16 +34,17 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<br>
-<img src="https://img.shields.io/badge/IDA_Pro-800000?style=for-the-badge&logoColor=white" alt="IDA Pro" />
-<img src="https://img.shields.io/badge/Ghidra-FF6F00?style=for-the-badge&logoColor=white" alt="Ghidra" />
-<img src="https://img.shields.io/badge/dnSpy-5B2C6F?style=for-the-badge&logoColor=white" alt="dnSpy" />
-<img src="https://img.shields.io/badge/Frida-E74C3C?style=for-the-badge&logoColor=white" alt="Frida" />
-<img src="https://img.shields.io/badge/APKTool-229954?style=for-the-badge&logoColor=white" alt="APKTool" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,windows,linux,java,android&theme=dark" alt="Tools" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/IDA_Pro-800000?style=for-the-badge&logo=cpu&logoColor=white" alt="IDA Pro" />
+<img src="https://img.shields.io/badge/Ghidra-FF6F00?style=for-the-badge&logo=dependencycheck&logoColor=white" alt="Ghidra" />
+<img src="https://img.shields.io/badge/dnSpy-5B2C6F?style=for-the-badge&logo=dotnet&logoColor=white" alt="dnSpy" />
+<img src="https://img.shields.io/badge/Frida-E74C3C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Frida" />
+<img src="https://img.shields.io/badge/APKTool-229954?style=for-the-badge&logo=android&logoColor=white" alt="APKTool" />
 
 </div>
 
