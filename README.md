@@ -30,7 +30,7 @@
 
 ## 🧰 Инструменты, которыми я пользуюсь
 
-<table frame="none" rules="none" border="0" cellpadding="6" cellspacing="0">
+<table>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=visualstudio" width="40" alt="Visual Studio" /></td>
     <td><b>Visual Studio</b></td>
@@ -60,14 +60,15 @@
     <td><b>dnSpy</b></td>
   </tr>
   <tr>
-    <td><div style="width: 40px; height: 40px;"></div></td>
+    <td><img src="frida.png" width="40" style="border-radius: 10px;" alt="Frida" /></td>
     <td><b>FЯIDA</b></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=android" width="40" alt="APKTool" /></td>
+    <td><img src="android.png" width="40" style="border-radius: 10px;" alt="APKTool" /></td>
     <td><b>APKTool</b></td>
   </tr>
 </table>
+
 ---
 
 ## 🌐 Мои контакты
