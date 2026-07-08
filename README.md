@@ -39,10 +39,10 @@
   
   <br>
 
-  <!-- Софт для реверса с ровными логотипами внутри -->
+  <!-- Софт для реверса с твоими личными логотипами слева внутри плашки -->
   <img src="https://img.shields.io/badge/IDA_Pro-800000?style=for-the-badge" alt="IDA Pro" />
-  <img src="https://img.shields.io/badge/Ghidra-FF6F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTEyLDJDNi41LDIgMiw2LjUgMiwxMkMyLDE3LjUgNi41LDIyLDEyLDIyQzE3LjUsMjIgMjIsMTcuNSAyMiwxMkMyMiw2LjUgMTcuNSwyIDEyLDJNMTQuNywxNi4zQzEzLjksMTYuOCAxMywxNyAxMiwxN0M5LjIsMTcgNywxNC44IDcsMTJDNyw5LjIgOS4yLDcgMTIsN0MxMyw3IDEzLjksNy4yIDE0LjcsNy43QzEzLjYsOC43IDEzLDEwLjIgMTMsMTJDMTMsMTMuOCAxMy42LDE1LjMgMTQuNywxNi4zWiIvPjwvc3ZnPg==" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/dnSpy-5B2C6F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTIsNkg4VjJIMThWMTZIOFYxMkg0VjZNMiw2SDhWMTJINFY2TTExLDEwSDE3VjE0SDExVjEwTTE0LDE0SDE5VjE4SDE0VjE0WiIvPjwvc3ZnPg==" alt="dnSpy" />
+  <img src="https://img.shields.io/badge/Ghidra-FF6F00?style=for-the-badge&logo=https://raw.githubusercontent.com/ТВОЙ_НИК/ИМЯ_РЕПОЗИТОРИЯ/main/ghidra.png" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/dnSpy-5B2C6F?style=for-the-badge&logo=https://raw.githubusercontent.com/ТВОЙ_НИК/ИМЯ_РЕПОЗИТОРИЯ/main/dnspy.png" alt="dnSpy" />
   <img src="https://img.shields.io/badge/FЯIDA-E74C3C?style=for-the-badge" alt="Frida" />
   <img src="https://img.shields.io/badge/APKTool-229954?style=for-the-badge&logo=android&logoColor=white" alt="APKTool" />
 </div>
