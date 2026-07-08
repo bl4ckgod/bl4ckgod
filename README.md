@@ -4,7 +4,7 @@
 
 <div align="center">
 
-## 🎵 Currently Listening
+## 🎵 Сейчас слушаю
 
 <img src="https://lastfm-recently-played.vercel.app/api?user=xcserec&cache_bust=1" alt="Last.fm">
 
