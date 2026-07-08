@@ -19,32 +19,39 @@
 <div align="center">
 <table>
   <tr>
-    <td width="70" style="width: 70px;"><img src="https://skillicons.dev/icons?i=python" width="56" alt="Python" /></td>
-    <td align="center" style="vertical-align: middle; width: 300px;"><b>Python</b></td>
+    <td width="70"><img src="https://skillicons.dev/icons?i=python" width="56" alt="Python" /></td>
+    <td align="center" valign="middle"><b>Python</b></td>
+    <td width="300"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="300" height="1" /></td>
   </tr>
   <tr>
-    <td width="70" style="width: 70px;"><img src="https://skillicons.dev/icons?i=cs" width="56" alt="C#" /></td>
-    <td align="center" style="vertical-align: middle; width: 300px;"><b>C#</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cs" width="56" alt="C#" /></td>
+    <td align="center" valign="middle"><b>C#</b></td>
+    <td></td>
   </tr>
   <tr>
-    <td width="70" style="width: 70px;"><img src="https://skillicons.dev/icons?i=js" width="56" alt="JavaScript" /></td>
-    <td align="center" style="vertical-align: middle; width: 300px;"><b>JavaScript</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java" width="56" alt="Java" /></td>
+    <td align="center" valign="middle"><b>Java</b></td>
+    <td></td>
   </tr>
   <tr>
-    <td width="70" style="width: 70px;"><img src="https://skillicons.dev/icons?i=html" width="56" alt="HTML5" /></td>
-    <td align="center" style="vertical-align: middle; width: 300px;"><b>HTML5</b></td>
+    <td><img src="https://skillicons.dev/icons?i=lua" width="56" alt="Lua" /></td>
+    <td align="center" valign="middle"><b>Lua</b></td>
+    <td></td>
   </tr>
   <tr>
-    <td width="70" style="width: 70px;"><img src="https://skillicons.dev/icons?i=css" width="56" alt="CSS3" /></td>
-    <td align="center" style="vertical-align: middle; width: 300px;"><b>CSS3</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html" width="56" alt="HTML5" /></td>
+    <td align="center" valign="middle"><b>HTML5</b></td>
+    <td></td>
   </tr>
   <tr>
-    <td width="70" style="width: 70px;"><img src="https://skillicons.dev/icons?i=java" width="56" alt="Java" /></td>
-    <td align="center" style="vertical-align: middle; width: 300px;"><b>Java</b></td>
+    <td><img src="https://skillicons.dev/icons?i=css" width="56" alt="CSS3" /></td>
+    <td align="center" valign="middle"><b>CSS3</b></td>
+    <td></td>
   </tr>
   <tr>
-    <td width="70" style="width: 70px;"><img src="https://skillicons.dev/icons?i=lua" width="56" alt="Lua" /></td>
-    <td align="center" style="vertical-align: middle; width: 300px;"><b>Lua</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js" width="56" alt="JavaScript" /></td>
+    <td align="center" valign="middle"><b>JavaScript</b></td>
+    <td></td>
   </tr>
 </table>
 </div>
