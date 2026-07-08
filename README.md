@@ -6,6 +6,16 @@
 
 <div align="center">
 
+## 🎵 Currently Listening
+
+<img src="https://lastfm-recently-played.vercel.app/api?user=xcserec">
+
+</div>
+
+---
+
+<div align="center">
+
 ## 👤 Обо мне
 
 💻 Реверс-инжиниринг<br>
