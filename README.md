@@ -2,6 +2,8 @@
   <img src="1337.gif" width="500" alt="GIF">
 </p>
 
+---
+
 ## 🛠️ Языки программирования
 
 <div align="center">
@@ -25,3 +27,20 @@
 </a>
 
 </div>
+
+---
+
+## 🧰 Инструменты которыми я пользуюсь
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/IDA_Pro-800000?style=for-the-badge&logoColor=white" alt="IDA Pro" />
+<img src="https://img.shields.io/badge/Ghidra-FF6F00?style=for-the-badge&logoColor=white" alt="Ghidra" />
+
+</div>
+
+---
